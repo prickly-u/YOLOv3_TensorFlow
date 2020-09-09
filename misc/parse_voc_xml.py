@@ -1,4 +1,4 @@
-# coding: utf-8
+#!/usr/bin/env python
 
 import xml.etree.ElementTree as ET
 import os
@@ -11,15 +11,20 @@ for line in f:
     names_dict[line] = cnt
     cnt += 1
 
-voc_07 = '/data/VOCdevkit/VOC2007'
-voc_12 = '/data/VOCdevkit/VOC2012'
+#voc_07 = '/data/VOCdevkit/VOC2007'
+#voc_12 = '/data/VOCdevkit/VOC2012'
+laddv4_voc = '../../lacmus-foundation/data/laddv4/full'
 
-anno_path = [os.path.join(voc_07, 'Annotations'), os.path.join(voc_12, 'Annotations')]
-img_path = [os.path.join(voc_07, 'JPEGImages'), os.path.join(voc_12, 'JPEGImages')]
+#anno_path = [os.path.join(voc_07, 'Annotations'), os.path.join(voc_12, 'Annotations')]
+#img_path = [os.path.join(voc_07, 'JPEGImages'), os.path.join(voc_12, 'JPEGImages')]
+anno_path = [os.path.join(laddv4_voc, 'Annotations')]
+img_path = [os.path.join(laddv4_voc, 'JPEGImages')]
 
-trainval_path = [os.path.join(voc_07, 'ImageSets/Main/trainval.txt'),
-                 os.path.join(voc_12, 'ImageSets/Main/trainval.txt')]
-test_path = [os.path.join(voc_07, 'ImageSets/Main/test.txt')]
+#trainval_path = [os.path.join(voc_07, 'ImageSets/Main/trainval.txt'),
+#                 os.path.join(voc_12, 'ImageSets/Main/trainval.txt')]
+#test_path = [os.path.join(voc_07, 'ImageSets/Main/test.txt')]
+trainval_path = [os.path.join(laddv4_voc, 'ImageSets/Main/trainval.txt')]
+test_path = [os.path.join(laddv4_voc, 'ImageSets/Main/test.txt')]
 
 
 def parse_xml(path):

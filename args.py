@@ -9,12 +9,12 @@ import math
 ### Some paths
 train_file = './data/my_data/train.txt'  # The path of the training txt file.
 val_file = './data/my_data/val.txt'  # The path of the validation txt file.
-restore_path = './data/darknet_weights/yolov3.ckpt'  # The path of the weights to restore.
+restore_path = './data/darknet_weights/yolov3.ckpt' #yolov3.ckpt'  # The path of the weights to restore.
 save_dir = './checkpoint/'  # The directory of the weights to save.
 log_dir = './data/logs/'  # The directory to store the tensorboard log files.
 progress_log_path = './data/progress.log'  # The path to record the training progress.
-anchor_path = './data/yolo_anchors.txt'  # The path of the anchor txt file.
-class_name_path = './data/coco.names'  # The path of the class names.
+anchor_path = './data/laddv4_anchors.txt'  # The path of the anchor txt file.
+class_name_path = './data/laddv4.names.txt' #'./data/coco.names'  # The path of the class names.
 
 ### Training releated numbers
 batch_size = 6
@@ -50,14 +50,14 @@ pw_values = [learning_rate_init, 3e-5, 1e-5]
 # restore_include: None, restore_exclude: scope  => restore the whole model except `scope`
 # restore_include: scope1, restore_exclude: scope2  => if scope1 contains scope2, restore scope1 and not restore scope2 (scope1 - scope2)
 # choise 1: only restore the darknet body
-# restore_include = ['yolov3/darknet53_body']
-# restore_exclude = None
+restore_include = ['yolov3/darknet53_body']
+restore_exclude = None
 # choise 2: restore all layers except the last 3 conv2d layers in 3 scale
-restore_include = None
-restore_exclude = ['yolov3/yolov3_head/Conv_14', 'yolov3/yolov3_head/Conv_6', 'yolov3/yolov3_head/Conv_22']
+#restore_include = None
+#restore_exclude = ['yolov3/yolov3_head/Conv_14', 'yolov3/yolov3_head/Conv_6', 'yolov3/yolov3_head/Conv_22']
 # Choose the parts you want to finetune. List form.
 # Set to None to train the whole model.
-update_part = ['yolov3/yolov3_head']
+update_part = None#['yolov3/yolov3_head']
 
 ### other training strategies
 multi_scale_train = True  # Whether to apply multi-scale training strategy. Image size varies from [320, 320] to [640, 640] by default.
