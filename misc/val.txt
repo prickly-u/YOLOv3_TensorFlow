@@ -1,0 +1,125 @@
+0 ../lacmus-foundation/data/laddv4/full/JPEGImages/115.jpg 4000 3000 0 3525 412 3597 469
+1 ../lacmus-foundation/data/laddv4/full/JPEGImages/236.jpg 4000 3000 0 2130 2036 2234 2095 0 2211 1166 2329 1227 0 2364 52 2444 116
+2 ../lacmus-foundation/data/laddv4/full/JPEGImages/191.jpg 4000 3000 0 2419 1607 2505 1663
+3 ../lacmus-foundation/data/laddv4/full/JPEGImages/343.jpg 4056 3040 0 2137 1420 2222 1473 0 2362 50 2413 163 0 3865 2912 3943 2996
+4 ../lacmus-foundation/data/laddv4/full/JPEGImages/7.jpg 4000 3000 0 41 734 155 781 0 1195 207 1279 266
+5 ../lacmus-foundation/data/laddv4/full/JPEGImages/221.jpg 4000 3000 0 1370 1157 1425 1206 0 2282 1257 2356 1308 0 2296 1293 2353 1330 0 1276 2802 1336 2887
+6 ../lacmus-foundation/data/laddv4/full/JPEGImages/2.jpg 4000 3000 0 1910 1676 2041 1748
+7 ../lacmus-foundation/data/laddv4/full/JPEGImages/135.jpg 4000 3000 0 1725 2202 1759 2251 0 1887 1072 1935 1122 0 272 712 360 789 0 12 290 103 381
+8 ../lacmus-foundation/data/laddv4/full/JPEGImages/233.jpg 4000 3000 0 1387 1291 1435 1343 0 1592 1326 1649 1392 0 1729 1309 1777 1365 0 1958 1374 1996 1417 0 2059 1383 2113 1442 0 2238 1442 2271 1474 0 2397 1486 2449 1537 0 1656 2895 1706 2966
+9 ../lacmus-foundation/data/laddv4/full/JPEGImages/1.jpg 4056 3040 0 1276 2231 1362 2290 0 1597 2068 1644 2134 0 1841 2165 1907 2236 0 1739 405 1800 520
+10 ../lacmus-foundation/data/laddv4/full/JPEGImages/20.jpg 4000 3000 0 2075 1773 2160 1864 0 2273 1751 2309 1809 0 2326 1817 2425 1865
+11 ../lacmus-foundation/data/laddv4/full/JPEGImages/31.jpg 4056 3040 0 1682 1342 1745 1402 0 3649 2637 3745 2734 0 3181 1822 3273 1888
+12 ../lacmus-foundation/data/laddv4/full/JPEGImages/125.jpg 4000 3000 0 1257 1710 1312 1827 0 1380 1695 1473 1827 0 1642 1695 1700 1820 0 1792 1775 1837 1886 0 1966 1796 2026 1921 0 2177 1845 2228 1921 0 2271 1845 2341 1972 0 1648 2928 1714 2992
+13 ../lacmus-foundation/data/laddv4/full/JPEGImages/73.jpg 4000 3000 0 1578 1952 1721 2003 0 1670 2852 1821 2927
+14 ../lacmus-foundation/data/laddv4/full/JPEGImages/83.jpg 4000 3000
+15 ../lacmus-foundation/data/laddv4/full/JPEGImages/303.jpg 4000 2250 0 1472 2111 1546 2156 0 2420 63 2460 106
+16 ../lacmus-foundation/data/laddv4/full/JPEGImages/347.jpg 4000 3000 0 2533 2394 2647 2430 0 2165 1211 2312 1297 0 1879 361 2033 421
+17 ../lacmus-foundation/data/laddv4/full/JPEGImages/137.jpg 4000 3000 0 1440 1789 1496 1831 0 1437 1895 1482 1948 0 1594 1752 1650 1803 0 1771 1825 1816 1867 0 1924 1815 1977 1864 0 2163 1845 2194 1883 0 2273 1868 2326 1911 0 1669 2905 1725 2973
+18 ../lacmus-foundation/data/laddv4/full/JPEGImages/74.jpg 4000 3000 0 969 814 1011 861 0 1308 1681 1382 1728
+19 ../lacmus-foundation/data/laddv4/full/JPEGImages/199.jpg 4000 3000 0 1919 2754 2106 2860 0 2008 1104 2149 1159
+20 ../lacmus-foundation/data/laddv4/full/JPEGImages/47.jpg 4000 3000 0 1393 2890 1445 2962 0 1546 2787 1603 2870 0 1665 2882 1717 2951 0 1734 2736 1789 2807 0 1825 2788 1866 2851 0 2009 2901 2064 2965 0 2118 2903 2176 2960 0 2346 2904 2397 2963
+21 ../lacmus-foundation/data/laddv4/full/JPEGImages/346.jpg 4000 3000 0 666 2435 712 2527 0 1809 2068 1868 2193 0 2708 1773 2767 1888
+22 ../lacmus-foundation/data/laddv4/full/JPEGImages/402.jpg 4000 3000 0 78 58 190 111
+23 ../lacmus-foundation/data/laddv4/full/JPEGImages/382.jpg 4000 3000 0 1968 1238 2059 1288 0 2690 2129 2784 2225 0 3271 2856 3366 2938
+24 ../lacmus-foundation/data/laddv4/full/JPEGImages/167.jpg 4000 3000 0 1244 1739 1327 1833 0 1399 1720 1456 1830 0 1652 1744 1695 1828 0 1806 1790 1842 1885 0 1976 1796 2028 1923 0 2182 1855 2241 1924 0 2282 1857 2345 1971 0 1653 2927 1719 2992
+25 ../lacmus-foundation/data/laddv4/full/JPEGImages/66.jpg 4056 3040 0 3717 2681 3787 2778 0 3946 2443 4018 2512 0 2148 942 2262 1014
+26 ../lacmus-foundation/data/laddv4/full/JPEGImages/8.jpg 4000 2250 0 2432 901 2482 990
+27 ../lacmus-foundation/data/laddv4/full/JPEGImages/331.jpg 4000 3000 0 2152 1160 2301 1225 0 2466 2052 2620 2141
+28 ../lacmus-foundation/data/laddv4/full/JPEGImages/288.jpg 4000 3000 0 773 1127 913 1202 0 760 2481 908 2564
+29 ../lacmus-foundation/data/laddv4/full/JPEGImages/53.jpg 4000 3000 0 1772 1972 1825 2021 0 1980 862 2015 933
+30 ../lacmus-foundation/data/laddv4/full/JPEGImages/161.jpg 4000 2250 0 448 1882 529 1932
+31 ../lacmus-foundation/data/laddv4/full/JPEGImages/25.jpg 4000 3000 0 1607 2305 1655 2346 0 1913 873 1965 931
+32 ../lacmus-foundation/data/laddv4/full/JPEGImages/228.jpg 4000 2250 0 941 378 1005 452
+33 ../lacmus-foundation/data/laddv4/full/JPEGImages/163.jpg 4000 3000 0 3345 1568 3448 1609 0 3243 438 3356 538
+34 ../lacmus-foundation/data/laddv4/full/JPEGImages/369.jpg 4000 2250 0 901 1457 967 1531
+35 ../lacmus-foundation/data/laddv4/full/JPEGImages/177.jpg 4000 3000 0 1487 2276 1539 2329 0 1603 2252 1654 2310 0 1777 2188 1835 2251 0 1927 2237 1970 2294 0 2081 2307 2140 2385 0 2264 2220 2310 2254 0 2372 2245 2421 2318 0 1665 2872 1717 2941
+36 ../lacmus-foundation/data/laddv4/full/JPEGImages/160.jpg 4000 3000
+37 ../lacmus-foundation/data/laddv4/full/JPEGImages/109.jpg 4000 3000 0 1256 1715 1302 1809 0 1403 1703 1460 1811 0 1657 1711 1705 1818 0 1803 1795 1846 1861 0 1958 1800 2012 1910 0 2179 1853 2226 1911 0 2304 1851 2349 1954 0 1653 2929 1708 3000
+38 ../lacmus-foundation/data/laddv4/full/JPEGImages/234.jpg 4000 3000 0 2197 1194 2320 1252 0 63 304 176 403 0 1 362 108 461
+39 ../lacmus-foundation/data/laddv4/full/JPEGImages/78.jpg 4000 3000 0 1973 1927 2080 1998
+40 ../lacmus-foundation/data/laddv4/full/JPEGImages/300.jpg 4000 3000 0 1178 1312 1236 1355
+41 ../lacmus-foundation/data/laddv4/full/JPEGImages/176.jpg 4000 3000 0 2504 2039 2579 2102 0 2153 770 2192 859
+42 ../lacmus-foundation/data/laddv4/full/JPEGImages/34.jpg 4000 3000 0 388 510 434 621
+43 ../lacmus-foundation/data/laddv4/full/JPEGImages/151.jpg 4000 3000 0 1674 2860 1733 2923 0 1507 1836 1560 1894 0 1649 1855 1704 1921 0 1801 1833 1854 1889 0 1996 1877 2036 1929 0 2124 1922 2216 1957 0 2220 1914 2272 1950 0 2475 1938 2527 1978
+44 ../lacmus-foundation/data/laddv4/full/JPEGImages/119.jpg 4000 3000 0 850 788 924 869 0 1112 759 1186 848
+45 ../lacmus-foundation/data/laddv4/full/JPEGImages/522.jpg 4000 3000 0 2574 376 2624 472 0 2601 2098 2683 2142
+46 ../lacmus-foundation/data/laddv4/full/JPEGImages/452.jpg 5472 3078 0 1398 1464 1492 1524
+47 ../lacmus-foundation/data/laddv4/full/JPEGImages/666.jpg 4000 3000 0 1681 2556 1833 2635 0 2023 1059 2088 1103 0 1939 1 2033 41
+48 ../lacmus-foundation/data/laddv4/full/JPEGImages/644.jpg 4000 3000 0 336 922 453 973 0 422 2515 538 2558
+49 ../lacmus-foundation/data/laddv4/full/JPEGImages/573.jpg 5472 3078 0 1570 194 1650 273 0 1183 822 1275 924 0 1818 1541 1858 1579
+50 ../lacmus-foundation/data/laddv4/full/JPEGImages/661.jpg 4000 3000 0 2530 2106 2598 2158
+51 ../lacmus-foundation/data/laddv4/full/JPEGImages/744.jpg 4000 2250 0 882 1324 951 1390
+52 ../lacmus-foundation/data/laddv4/full/JPEGImages/515.jpg 4000 2250 0 1542 1756 1620 1840 0 1601 1694 1665 1756
+53 ../lacmus-foundation/data/laddv4/full/JPEGImages/544.jpg 4000 3000 0 1028 2302 1124 2377 0 980 457 1021 499 0 968 398 1037 456
+54 ../lacmus-foundation/data/laddv4/full/JPEGImages/474.jpg 4000 3000 0 999 2829 1060 2894 0 1035 1550 1076 1589 0 1094 158 1151 212
+55 ../lacmus-foundation/data/laddv4/full/JPEGImages/494.jpg 4000 3000 0 2584 248 2651 313
+56 ../lacmus-foundation/data/laddv4/full/JPEGImages/635.jpg 4000 3000 0 1780 682 1933 759
+57 ../lacmus-foundation/data/laddv4/full/JPEGImages/558.jpg 5472 3078 0 2467 1554 2508 1597
+58 ../lacmus-foundation/data/laddv4/full/JPEGImages/523.jpg 4000 3000 0 2094 2425 2162 2495 0 2074 1208 2161 1251
+59 ../lacmus-foundation/data/laddv4/full/JPEGImages/767.jpg 4000 2250 0 485 859 551 902
+60 ../lacmus-foundation/data/laddv4/full/JPEGImages/599.jpg 5472 3078 0 1347 2264 1407 2306 0 1588 648 1743 729
+61 ../lacmus-foundation/data/laddv4/full/JPEGImages/530.jpg 4000 3000 0 591 1940 680 2039
+62 ../lacmus-foundation/data/laddv4/full/JPEGImages/701.jpg 5472 3078 0 1473 2175 1523 2274 0 1419 379 1504 415
+63 ../lacmus-foundation/data/laddv4/full/JPEGImages/610.jpg 4000 3000 0 963 1357 1062 1423
+64 ../lacmus-foundation/data/laddv4/full/JPEGImages/526.jpg 4000 3000 0 2671 1749 2710 1785 0 2711 576 2805 625 0 2718 1 2805 31
+65 ../lacmus-foundation/data/laddv4/full/JPEGImages/693.jpg 4000 3000 0 2030 1275 2109 1325
+66 ../lacmus-foundation/data/laddv4/full/JPEGImages/433.jpg 4000 2250 0 3204 1620 3257 1663
+67 ../lacmus-foundation/data/laddv4/full/JPEGImages/553.jpg 5472 3078 0 994 1308 1054 1356 0 992 2845 1067 2901
+68 ../lacmus-foundation/data/laddv4/full/JPEGImages/594.jpg 4000 3000 0 1061 1948 1151 2018 0 1005 107 1044 147 0 999 44 1047 108
+69 ../lacmus-foundation/data/laddv4/full/JPEGImages/713.jpg 4000 3000 0 1219 1827 1387 1951 0 1812 1301 1908 1399
+70 ../lacmus-foundation/data/laddv4/full/JPEGImages/709.jpg 4000 2250 0 2010 1250 2029 1283 0 1971 1166 1987 1193 0 1999 1127 2021 1161
+71 ../lacmus-foundation/data/laddv4/full/JPEGImages/461.jpg 4000 3000 0 1065 2873 1147 2945 0 974 2389 1038 2450 0 996 2239 1034 2300 0 1400 2284 1459 2353 0 986 1044 1043 1108 0 2054 698 2100 760
+72 ../lacmus-foundation/data/laddv4/full/JPEGImages/605.jpg 4000 3000 0 2419 1588 2479 1640 0 2719 208 2778 250
+73 ../lacmus-foundation/data/laddv4/full/JPEGImages/768.jpg 5472 3078 0 2788 1683 2836 1741 0 2825 1741 2901 1803 0 2953 1608 3033 1663 0 2983 1825 3065 1891 0 3099 1730 3165 1821 0 2885 778 2934 856 0 2938 776 2983 854 0 2904 751 2958 796
+74 ../lacmus-foundation/data/laddv4/full/JPEGImages/457.jpg 4000 3000 0 501 2382 588 2426 0 469 630 585 669
+75 ../lacmus-foundation/data/laddv4/full/JPEGImages/678.jpg 4000 3000 0 2813 1109 2863 1154 0 2760 413 2845 460
+76 ../lacmus-foundation/data/laddv4/full/JPEGImages/662.jpg 5472 3078 0 2916 1700 2965 1781 0 2946 1764 3025 1836 0 3260 1735 3327 1823 0 3105 1612 3192 1667 0 3068 859 3121 924 0 3112 914 3161 992
+77 ../lacmus-foundation/data/laddv4/full/JPEGImages/483.jpg 4000 2250 0 2946 720 3009 765
+78 ../lacmus-foundation/data/laddv4/full/JPEGImages/519.jpg 5472 3078 0 2052 924 2131 967 0 2183 2268 2251 2340
+79 ../lacmus-foundation/data/laddv4/full/JPEGImages/476.jpg 5472 3078 0 2183 2227 2285 2301
+80 ../lacmus-foundation/data/laddv4/full/JPEGImages/882.jpg 4864 3648 0 1809 1536 1854 1588
+81 ../lacmus-foundation/data/laddv4/full/JPEGImages/953.jpg 4864 3648 0 2953 1398 3014 1484
+82 ../lacmus-foundation/data/laddv4/full/JPEGImages/941.jpg 5472 3078 0 1903 1612 1997 1653
+83 ../lacmus-foundation/data/laddv4/full/JPEGImages/966.jpg 5472 3078 0 1167 1877 1277 1942
+84 ../lacmus-foundation/data/laddv4/full/JPEGImages/895.jpg 4864 3648 0 1887 1125 1944 1177
+85 ../lacmus-foundation/data/laddv4/full/JPEGImages/835.jpg 4864 3648 0 2789 1547 2852 1596 0 2812 1489 2882 1558 0 4672 3412 4785 3488
+86 ../lacmus-foundation/data/laddv4/full/JPEGImages/868.jpg 4864 3648 0 1765 582 1817 682
+87 ../lacmus-foundation/data/laddv4/full/JPEGImages/779.jpg 4864 3648 0 2248 2287 2283 2346
+88 ../lacmus-foundation/data/laddv4/full/JPEGImages/843.jpg 5472 3078 0 3544 1414 3626 1479
+89 ../lacmus-foundation/data/laddv4/full/JPEGImages/978.jpg 4864 3648 0 1955 2787 2010 2854
+90 ../lacmus-foundation/data/laddv4/full/JPEGImages/840.jpg 4864 3648 0 1705 1096 1764 1186
+91 ../lacmus-foundation/data/laddv4/full/JPEGImages/1012.jpg 4864 3648 0 2534 1465 2636 1524
+92 ../lacmus-foundation/data/laddv4/full/JPEGImages/833.jpg 4864 3648 0 2963 1391 3023 1481 0 2915 1201 2983 1275
+93 ../lacmus-foundation/data/laddv4/full/JPEGImages/860.jpg 4864 3648 0 3683 972 3766 1038 0 3696 928 3801 1006 0 1128 1883 1212 1936 0 1204 1969 1291 2021 0 1612 2034 1694 2098 0 2410 3096 2471 3175 0 2364 3122 2423 3195
+94 ../lacmus-foundation/data/laddv4/full/JPEGImages/939.jpg 4864 3648 0 3236 2202 3279 2250
+95 ../lacmus-foundation/data/laddv4/full/JPEGImages/785.jpg 4864 3648 0 1511 1441 1578 1506
+96 ../lacmus-foundation/data/laddv4/full/JPEGImages/986.jpg 4864 3648 0 463 1173 550 1242 0 399 1188 503 1254
+97 ../lacmus-foundation/data/laddv4/full/JPEGImages/874.jpg 4864 3648 0 934 1948 1058 2009
+98 ../lacmus-foundation/data/laddv4/full/JPEGImages/999.jpg 4864 3648 0 2144 1830 2217 1889
+99 ../lacmus-foundation/data/laddv4/full/JPEGImages/993.jpg 4864 3648 0 2095 748 2146 852
+100 ../lacmus-foundation/data/laddv4/full/JPEGImages/982.jpg 4864 3648 0 2263 1976 2305 2027
+101 ../lacmus-foundation/data/laddv4/full/JPEGImages/795.jpg 4864 3648 0 3936 2219 4058 2310 0 428 2097 507 2155
+102 ../lacmus-foundation/data/laddv4/full/JPEGImages/830.jpg 4864 3648 0 2833 957 2915 1039 0 1230 3458 1316 3578
+103 ../lacmus-foundation/data/laddv4/full/JPEGImages/944.jpg 4864 3648 0 1775 1667 1836 1720
+104 ../lacmus-foundation/data/laddv4/full/JPEGImages/954.jpg 4864 3648 0 3150 866 3210 925 0 3182 825 3240 881
+105 ../lacmus-foundation/data/laddv4/full/JPEGImages/940.jpg 4864 3648 0 2342 1691 2396 1744
+106 ../lacmus-foundation/data/laddv4/full/JPEGImages/829.jpg 4864 3648 0 1993 913 2060 998
+107 ../lacmus-foundation/data/laddv4/full/JPEGImages/898.jpg 5472 3078 0 2395 688 2436 768
+108 ../lacmus-foundation/data/laddv4/full/JPEGImages/875.jpg 5472 3078 0 2523 1382 2595 1433
+109 ../lacmus-foundation/data/laddv4/full/JPEGImages/970.jpg 4864 3648 0 1337 3353 1384 3422 0 1396 3244 1450 3309
+110 ../lacmus-foundation/data/laddv4/full/JPEGImages/1033.jpg 5472 3078 0 2270 2319 2335 2404
+111 ../lacmus-foundation/data/laddv4/full/JPEGImages/930.jpg 4864 3648 0 1831 2154 1899 2238
+112 ../lacmus-foundation/data/laddv4/full/JPEGImages/972.jpg 4864 3648 0 77 2867 200 2965
+113 ../lacmus-foundation/data/laddv4/full/JPEGImages/987.jpg 4864 3648 0 3445 1439 3525 1557
+114 ../lacmus-foundation/data/laddv4/full/JPEGImages/837.jpg 4864 3648 0 753 1351 826 1421 0 793 1325 879 1384
+115 ../lacmus-foundation/data/laddv4/full/JPEGImages/1003.jpg 4864 3648 0 1199 1675 1294 1734 0 1363 1675 1457 1733
+116 ../lacmus-foundation/data/laddv4/full/JPEGImages/1016.jpg 4864 3648 0 274 2257 362 2298 0 279 2209 366 2255
+117 ../lacmus-foundation/data/laddv4/full/JPEGImages/787.jpg 4864 3648 0 1597 1578 1669 1650
+118 ../lacmus-foundation/data/laddv4/full/JPEGImages/973.jpg 4864 3648 0 2102 620 2188 688
+119 ../lacmus-foundation/data/laddv4/full/JPEGImages/836.jpg 4864 3648 0 407 1383 529 1461 0 472 1372 570 1441
+120 ../lacmus-foundation/data/laddv4/full/JPEGImages/771.jpg 4864 3648 0 1516 2733 1581 2810
+121 ../lacmus-foundation/data/laddv4/full/JPEGImages/1026.jpg 4864 3648 0 2642 1288 2704 1365
+122 ../lacmus-foundation/data/laddv4/full/JPEGImages/1010.jpg 4864 3648 0 2102 1933 2166 1993
+123 ../lacmus-foundation/data/laddv4/full/JPEGImages/1000.jpg 4864 3648 0 3577 714 3653 793 0 3604 670 3692 733
+124 ../lacmus-foundation/data/laddv4/full/JPEGImages/887.jpg 5472 3078 0 3047 1456 3108 1498

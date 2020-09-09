@@ -2,6 +2,8 @@
 
 from __future__ import division, print_function
 
+import os
+
 import tensorflow as tf
 import numpy as np
 import logging
@@ -120,6 +122,7 @@ if args.save_optimizer:
     saver_best = tf.train.Saver()
 
 with tf.Session() as sess:
+    os.environ['CUDA_VISIBLE_DEVICES'] = ""
     sess.run([tf.global_variables_initializer(), tf.local_variables_initializer()])
     saver_to_restore.restore(sess, args.restore_path)
     merged = tf.summary.merge_all()
