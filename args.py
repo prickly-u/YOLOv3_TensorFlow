@@ -18,7 +18,7 @@ class_name_path = './data/laddv4.names.txt' #'./data/coco.names'  # The path of 
 
 ### Training releated numbers
 batch_size = 6
-img_size = [1333, 800] #[416, 416]  # Images will be resized to `img_size` and fed to the network, size format: [width, height]
+img_size = [800, 800] #[416, 416]  # Images will be resized to `img_size` and fed to the network, size format: [width, height]
 letterbox_resize = True  # Whether to use the letterbox resize, i.e., keep the original aspect ratio in the resized image.
 total_epoches = 100
 train_evaluation_step = 100  # Evaluate on the training batch after some steps.
