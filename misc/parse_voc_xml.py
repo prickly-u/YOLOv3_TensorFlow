@@ -13,7 +13,7 @@ for line in f:
 
 #voc_07 = '/data/VOCdevkit/VOC2007'
 #voc_12 = '/data/VOCdevkit/VOC2012'
-laddv4_voc = '../../lacmus-foundation/data/laddv4/full'
+laddv4_voc = '../../lacmus-foundation/data/laddv4/cropped'
 
 #anno_path = [os.path.join(voc_07, 'Annotations'), os.path.join(voc_12, 'Annotations')]
 #img_path = [os.path.join(voc_07, 'JPEGImages'), os.path.join(voc_12, 'JPEGImages')]
@@ -96,6 +96,6 @@ def gen_train_txt(txt_path):
     f.close()
 
 
-gen_train_txt('train.txt')
-gen_test_txt('val.txt')
+gen_train_txt('../data/cropped_data/train.txt')
+gen_test_txt('../data/cropped_data/val.txt')
 

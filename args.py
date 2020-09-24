@@ -7,20 +7,20 @@ from utils.misc_utils import parse_anchors, read_class_names
 import math
 
 ### Some paths
-train_file = './data/my_data/train.txt'  # The path of the training txt file.
-val_file = './data/my_data/val.txt'  # The path of the validation txt file.
-restore_path = './data/darknet_weights/yolov3.ckpt' #yolov3.ckpt'  # The path of the weights to restore.
+train_file = './data/cropped_data/train.txt'  # The path of the training txt file.
+val_file = './data/cropped_data/val.txt'  # The path of the validation txt file.
+restore_path = './data/darknet_weights/pascal_voc.ckpt' #yolov3.ckpt'  # The path of the weights to restore.
 save_dir = './checkpoint/'  # The directory of the weights to save.
 log_dir = './data/logs/'  # The directory to store the tensorboard log files.
 progress_log_path = './data/progress.log'  # The path to record the training progress.
-anchor_path = './data/laddv4_anchors.txt'  # The path of the anchor txt file.
-class_name_path = './data/laddv4.names.txt' #'./data/coco.names'  # The path of the class names.
+anchor_path = './data/cropped_data/cropped_anchors.txt'  # The path of the anchor txt file.
+class_name_path = './data/cropped_data/cropped.names' #'./data/coco.names'  # The path of the class names.
 
 ### Training releated numbers
 batch_size = 6
-img_size = [800, 800] #[416, 416]  # Images will be resized to `img_size` and fed to the network, size format: [width, height]
+img_size = [416, 416]  # Images will be resized to `img_size` and fed to the network, size format: [width, height]
 letterbox_resize = True  # Whether to use the letterbox resize, i.e., keep the original aspect ratio in the resized image.
-total_epoches = 100
+total_epoches = 2 #100
 train_evaluation_step = 100  # Evaluate on the training batch after some steps.
 val_evaluation_epoch = 2  # Evaluate on the whole validation dataset after some epochs. Set to None to evaluate every epoch.
 save_epoch = 10  # Save the model after some epochs.
@@ -65,7 +65,7 @@ use_label_smooth = True # Whether to use class label smoothing strategy.
 use_focal_loss = True  # Whether to apply focal loss on the conf loss.
 use_mix_up = True  # Whether to use mix up data augmentation strategy. 
 use_warm_up = True  # whether to use warm up strategy to prevent from gradient exploding.
-warm_up_epoch = 3  # Warm up training epoches. Set to a larger value if gradient explodes.
+warm_up_epoch = 1  # Warm up training epoches. Set to a larger value if gradient explodes.
 
 ### some constants in validation
 # nms
