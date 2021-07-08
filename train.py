@@ -18,6 +18,11 @@ from utils.nms_utils import gpu_nms
 
 from model import yolov3
 
+os.environ['CUDA_VISIBLE_DEVICES'] = str(0)
+config = tf.ConfigProto()
+config.gpu_options.allow_growth = True
+tf.keras.backend.set_session(tf.Session(config=config))
+
 # setting loggers
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s %(levelname)s %(message)s',
                     datefmt='%a, %d %b %Y %H:%M:%S', filename=args.progress_log_path, filemode='w')
